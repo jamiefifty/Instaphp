@@ -5,3 +5,8 @@ docs/*
 tmp/*
 composer.lock
 .DS_*
+nbproject/project.properties
+
+nbproject/project.xml
+
+composer.phar
