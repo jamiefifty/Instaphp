@@ -72,6 +72,7 @@ class Instaphp
         $logpath = dirname(__FILE__) . '/instaphp.log';
 		$defaults = [
 			'client_id'	=> '',
+                        'proxy'	=> '',
 			'client_secret' => '',
 			'access_token' => '',
 			'redirect_uri' => '',
